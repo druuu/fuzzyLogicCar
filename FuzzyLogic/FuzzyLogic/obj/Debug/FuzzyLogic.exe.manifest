@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="FuzzyLogic.exe" version="1.0.0.1" publicKeyToken="415ba28a70066442" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="FuzzyLogic" version="1.0.2878.37193" language="neutral" processorArchitecture="msil" />
+    <commandLine file="FuzzyLogic.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="PresentationFramework" version="3.0.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.IdentityModel" version="3.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Runtime.Serialization" version="3.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.ServiceModel" version="3.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FuzzyLogic.exe" size="1818624">
+      <assemblyIdentity name="FuzzyLogic" version="1.0.2878.37193" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>V0BCXSVQ8X8JNQU4C5kg6p6m2xU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=Seshi-Notebook\Seshi" issuerKeyHash="5fbd465712dc915ea80a4709e4b8c9f3fe04125a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>PDjkQh9srM2k943i4lcRsNRqplM=</DigestValue></Reference></SignedInfo><SignatureValue>J0AobiqXgwFcunaFokiO+cPBvYgOZDIG3ZIx2PZRdg05gLcjpnijU/38Tw6sTANAYLnhsQ9sy/jyOrsMIHVPUb4m/PKQCnnECCo8Z9TUmI//YrSW/f+IJRzt91wZbdkEAn2a91Ko2o3iSqaRw5yJFurugWIPkQz32fuUpXNc0Zw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uLYP5DWBYz9sNaPC88R0lEpGTovjSbOK0Q0JCuKiEw2DZJFVxbQUr9wVygpYIO8r+JXfNfH2KJ3EiYOV6+k33bSW9rdd80AwhM6DPpYWBT1fYeRKGWCpdI5XL28Ez0pEF5/BPDTKEOFRjpONv/8HQgal9SE4T/8OjkZyY5p0BEc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="53a66ad4b01157e2e28df7a4cdac6c1f42e4383c" Description="" Url=""><as:assemblyIdentity name="FuzzyLogic.exe" version="1.0.0.1" publicKeyToken="415ba28a70066442" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Seshi-Notebook\Seshi</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>HGfKrzVaj9CUb6AE1GqeDCqfrYo=</DigestValue></Reference></SignedInfo><SignatureValue>F4OkMisnR8hRNx596IDQSlJ4jVzj55/kKuKYp1IT+sWil2LWog+PCmLpoKEsjeDyX5GME3tnkSPDWk4mnYGfkHa8hBv4A4oR8TY4PChCYK1yRkeNPq1FPwBv3wk1vThw2ZxScc6MDnXvnSO1SCQkNbOSuCRZAceQr3x1NO//Hvc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uLYP5DWBYz9sNaPC88R0lEpGTovjSbOK0Q0JCuKiEw2DZJFVxbQUr9wVygpYIO8r+JXfNfH2KJ3EiYOV6+k33bSW9rdd80AwhM6DPpYWBT1fYeRKGWCpdI5XL28Ez0pEF5/BPDTKEOFRjpONv/8HQgal9SE4T/8OjkZyY5p0BEc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQsb2bF7m16LpEz2cGltm86DANBgkqhkiG9w0BAQUFADAzMTEwLwYDVQQDHigAUwBlAHMAaABpAC0ATgBvAHQAZQBiAG8AbwBrAFwAUwBlAHMAaABpMB4XDTA3MTExNjExNTQzNloXDTA4MTExNTE3NTQzNlowMzExMC8GA1UEAx4oAFMAZQBzAGgAaQAtAE4AbwB0AGUAYgBvAG8AawBcAFMAZQBzAGgAaTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAuLYP5DWBYz9sNaPC88R0lEpGTovjSbOK0Q0JCuKiEw2DZJFVxbQUr9wVygpYIO8r+JXfNfH2KJ3EiYOV6+k33bSW9rdd80AwhM6DPpYWBT1fYeRKGWCpdI5XL28Ez0pEF5/BPDTKEOFRjpONv/8HQgal9SE4T/8OjkZyY5p0BEcCAwEAATANBgkqhkiG9w0BAQUFAAOBgQBSpX7peXbBTeZfLSu0hP31Td4T2ESY8JQ75o89t/QOV8IeO1/13zZPVZUfLPB3ezGxsfp1x8S1leVUidbJt3ruBFrRrw6jYqSkV3oeY4XpmalpdU7Co+Dm0vuSAvS2ApLC4BcY73Y2n0QMw6urn8G0WQZXxm4kA1VLw3s+9/M1Ag==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,16 @@
+.\bin\Debug\FuzzyLogic.exe
+.\bin\Debug\FuzzyLogic.pdb
+obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Seshi\Documents\Visual Studio 2005\Projects\FuzzyLogic\FuzzyLogic\obj\Debug\Window1.baml
+C:\Users\Seshi\Documents\Visual Studio 2005\Projects\FuzzyLogic\FuzzyLogic\obj\Debug\Window1.g.cs
+C:\Users\Seshi\Documents\Visual Studio 2005\Projects\FuzzyLogic\FuzzyLogic\obj\Debug\App.g.cs
+C:\Users\Seshi\Documents\Visual Studio 2005\Projects\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic_MarkupCompile.cache
+obj\Debug\FuzzyLogic.g.resources
+obj\Debug\FuzzyLogic.Properties.Resources.resources
+obj\Debug\FuzzyLogic.csproj.GenerateResource.Cache
+obj\Debug\FuzzyLogic.exe
+obj\Debug\FuzzyLogic.pdb
+.\bin\Debug\FuzzyLogic.exe.manifest
+.\bin\Debug\FuzzyLogic.application
+obj\Debug\FuzzyLogic.exe.manifest
+obj\Debug\FuzzyLogic.application
